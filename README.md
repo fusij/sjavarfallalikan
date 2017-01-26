@@ -1,0 +1,2 @@
+# sjavarfallalikan
+ýmislegt tengt sjávarfallalíkani
